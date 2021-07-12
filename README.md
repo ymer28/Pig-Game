@@ -19,13 +19,14 @@ Add another dice to the game, so that there are two dices now. The player looses
 How To Use
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
-# Clone this repository
-$ git clone https://github.com/ymer28/Pig-Game
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-Acknowledgements
+# Acknowledgements
 The Complete JavaScript Course 2021: Build Real Projects! by Jonas Schmedtmann
+
+# Screenshots
+
+![New Recording - 12_07_2021, 16_52_00-low](https://user-images.githubusercontent.com/82145186/125252734-a8d06900-e333-11eb-9c6e-dba3f0d1ea67.gif)
+
+![New Recording - 12_07_2021, 16_52_00-low (2)](https://user-images.githubusercontent.com/82145186/125253369-4d52ab00-e334-11eb-8145-19cea76b3e52.gif)
+
+![New Recording - 12_07_2021, 16_52_00-low (1)](https://user-images.githubusercontent.com/82145186/125252940-dfa67f00-e333-11eb-8f1a-b50e559105ce.gif)
+
